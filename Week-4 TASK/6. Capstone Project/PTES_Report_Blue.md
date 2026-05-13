@@ -1,7 +1,7 @@
----
-PTES Penetration Test Report
-Title: HackTheBox Blue
----
+
+# PTES Report
+## Title: HackTheBox Blue
+
 
 ## Executive Summary
 
